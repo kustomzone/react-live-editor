@@ -1,4 +1,4 @@
-# live coding react components
+# live coding react components..
 
 This repo provides one webpage and three components.
 
