@@ -27,3 +27,11 @@ Combination of `<CodeMirrorEditor>` and `<ComponentPreview>` which live-compiles
 You should see something like this:
 
 ![](live-editor.gif)
+
+---------------------------------------------------------------
+
+
+Demo: https://kustomzone.github.io/react-live-editor/index.html
+
+
+---------------------------------------------------------------
